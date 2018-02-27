@@ -22,7 +22,7 @@ definition(
     category: "Mode Magic",
     iconUrl: "https://s3.amazonaws.com/smartapp-icons/ModeMagic/Cat-ModeMagic.png",
     iconX2Url: "https://s3.amazonaws.com/smartapp-icons/ModeMagic/Cat-ModeMagic@2x.png",
-    pausable: true
+    pausable: false
 )
 
 preferences {
